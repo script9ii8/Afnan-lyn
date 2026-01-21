@@ -25,9 +25,9 @@ local Settings = {
     JumpPower = 50,
 
     -- ESP
-    PlayerESP = true,
-    FishESP = true,
-    RodESP = true
+    PlayerESP = false, 
+    FishESP = false, 
+    RodESP = false, 
 }
 
 -- ================= ANTI AFK =================
